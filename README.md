@@ -1,11 +1,11 @@
-# DataDump v0.3
+# DataDump reduced for mini project
 
-Data dump with 
-
-* [xls](https://github.com/CEDAR-project/DataDump/tree/master/xls/): the source Excel workbooks containing the Dutch historical censuses
-* [xls-marked](https://github.com/CEDAR-project/DataDump/tree/master/xls-marked/): the ODS files with the markup
-* [mapping](https://github.com/CEDAR-project/DataDump/tree/master/mapping/): mapping rules
-* [raw-rdf](https://github.com/CEDAR-project/DataDump/tree/master/raw-rdf/): RDF conversion of the marked Excel files
-* [rules](https://github.com/CEDAR-project/DataDump/tree/master/rules/): RDF conversion of the mapping rules
-* [release](https://github.com/CEDAR-project/DataDump/tree/master/release/): RDF DataCube of the entire census dataset
+Focuses on 
+* VT_1859_01_H1.xls
+* VT_1869_01_H1.xls
+* VT_1879_10_H1.xls
+* VT_1889_12_H1.xls
+* VT_1899_01_H1.xls
+* VT_1909_01_T.xls
+* VT_1920_01_T.xls
 
