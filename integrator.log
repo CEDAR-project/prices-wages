@@ -1,0 +1,154 @@
+2015-02-12 15:26:24,160 Main         INFO     Calling tablinker for VT_1859_01_H1
+2015-02-12 15:26:24,160 Main         INFO     Calling tablinker for VT_1879_01_H1
+2015-02-12 15:26:24,160 Main         INFO     Calling tablinker for VT_1879_02_H1
+2015-02-12 15:26:24,160 Main         INFO     Calling tablinker for VT_1879_03_H1
+2015-02-12 15:26:24,161 Main         INFO     Calling tablinker for VT_1879_04_H1
+2015-02-12 15:26:24,161 Main         INFO     Calling tablinker for VT_1879_05_H1
+2015-02-12 15:26:24,161 Main         INFO     Calling tablinker for VT_1879_06_H1
+2015-02-12 15:26:24,167 Main         INFO     Calling tablinker for VT_1879_08_H1
+2015-02-12 15:26:24,167 Main         INFO     Calling tablinker for VT_1879_09_H1
+2015-02-12 15:26:24,182 Main         INFO     Calling tablinker for VT_1879_10_H1
+2015-02-12 15:26:24,182 Main         INFO     Calling tablinker for VT_1879_11_H1
+2015-02-12 15:26:24,182 Main         INFO     Calling tablinker for VT_1889_03_H1
+2015-02-12 15:26:24,182 Main         INFO     Calling tablinker for VT_1889_04_H1
+2015-02-12 15:26:24,186 Main         INFO     Calling tablinker for VT_1889_05_H1
+2015-02-12 15:26:35,686 TabLink      INFO     VT_1879_07_H1:Found 1 sheets to process
+2015-02-12 15:26:36,052 TabLink      INFO     VT_1879_02_H1:Found 1 sheets to process
+2015-02-12 15:26:36,128 TabLink      INFO     VT_1889_05_H1:Found 1 sheets to process
+2015-02-12 15:26:36,809 TabLink      INFO     VT_1879_04_H1:Found 1 sheets to process
+2015-02-12 15:26:40,785 TabLink      INFO     VT_1879_06_H1:Found 1 sheets to process
+2015-02-12 15:26:47,609 TabLink      INFO     VT_1889_03_H1:Found 1 sheets to process
+2015-02-12 15:26:48,230 TabLink      INFO     VT_1879_05_H1:Found 1 sheets to process
+2015-02-12 15:26:48,753 TabLink      INFO     VT_1879_03_H1:Found 1 sheets to process
+2015-02-12 15:26:50,410 TabLink      INFO     VT_1879_01_H1:Found 1 sheets to process
+2015-02-12 15:26:51,619 TabLink      INFO     VT_1879_09_H1:Found 1 sheets to process
+2015-02-12 15:26:51,855 TabLink      INFO     VT_1879_11_H1:Found 1 sheets to process
+2015-02-12 15:26:52,851 TabLink      INFO     VT_1879_10_H1:Found 1 sheets to process
+2015-02-12 15:26:57,013 TabLink      INFO     VT_1889_04_H1:Found 1 sheets to process
+2015-02-12 15:26:59,756 TabLink      INFO     VT_1879_08_H1:Found 1 sheets to process
+2015-02-12 15:27:02,776 TabLink      INFO     Saving 72477 data triples.
+2015-02-12 15:27:03,616 TabLink      INFO     Saving 82841 data triples.
+2015-02-12 15:27:05,029 TabLink      INFO     Saving 83854 data triples.
+2015-02-12 15:27:06,725 TabLink      INFO     Saving 83024 data triples.
+2015-02-12 15:27:20,741 TabLink      INFO     Saving 117679 data triples.
+2015-02-12 15:27:42,352 TabLink      INFO     Saving 152809 data triples.
+2015-02-12 15:27:44,529 TabLink      INFO     Saving 155208 data triples.
+2015-02-12 15:27:48,020 TabLink      INFO     Saving 172472 data triples.
+2015-02-12 15:27:51,073 TabLink      INFO     VT_1859_01_H1:Found 12 sheets to process
+2015-02-12 15:27:54,670 Main         INFO     Calling tablinker for VT_1889_06_H1
+2015-02-12 15:27:58,340 TabLink      INFO     Saving 211023 data triples.
+2015-02-12 15:28:04,912 Main         INFO     Calling tablinker for VT_1889_07_H1
+2015-02-12 15:28:06,380 TabLink      INFO     Saving 162525 data triples.
+2015-02-12 15:28:06,930 Main         INFO     Calling tablinker for VT_1889_08_H1
+2015-02-12 15:28:07,586 Main         INFO     Calling tablinker for VT_1889_09_H1
+2015-02-12 15:28:07,738 TabLink      INFO     VT_1889_06_H1:Found 1 sheets to process
+2015-02-12 15:28:11,376 TabLink      INFO     Saving 252858 data triples.
+2015-02-12 15:28:30,734 TabLink      INFO     VT_1889_07_H1:Found 1 sheets to process
+2015-02-12 15:28:33,555 TabLink      INFO     Saving 252776 data triples.
+2015-02-12 15:28:36,675 TabLink      INFO     VT_1889_08_H1:Found 1 sheets to process
+2015-02-12 15:28:38,736 TabLink      INFO     Saving 90906 data triples.
+2015-02-12 15:28:39,773 TabLink      INFO     Saving 324219 data triples.
+2015-02-12 15:28:47,120 TabLink      INFO     VT_1889_09_H1:Found 1 sheets to process
+2015-02-12 15:28:47,490 Main         INFO     Calling tablinker for VT_1889_10_H1
+2015-02-12 15:28:54,354 TabLink      INFO     VT_1869_01_H1:Found 12 sheets to process
+2015-02-12 15:29:05,670 TabLink      INFO     VT_1889_10_H1:Found 1 sheets to process
+2015-02-12 15:29:31,298 Main         INFO     Calling tablinker for VT_1889_11_H1
+2015-02-12 15:29:33,673 TabLink      INFO     Saving 183660 data triples.
+2015-02-12 15:29:38,850 Main         INFO     Calling tablinker for VT_1889_12_H1
+2015-02-12 15:29:43,053 TabLink      INFO     VT_1889_11_H1:Found 1 sheets to process
+2015-02-12 15:29:43,728 Main         INFO     Calling tablinker for VT_1889_13_H1
+2015-02-12 15:29:48,275 TabLink      INFO     Saving 123474 data triples.
+2015-02-12 15:29:48,519 TabLink      INFO     Saving 207370 data triples.
+2015-02-12 15:29:55,304 Main         INFO     Calling tablinker for VT_1899_01_H1
+2015-02-12 15:30:02,546 TabLink      INFO     VT_1889_13_H1:Found 1 sheets to process
+2015-02-12 15:30:06,766 Main         INFO     Calling tablinker for VT_1899_02_H1
+2015-02-12 15:30:10,579 TabLink      INFO     Saving 80709 data triples.
+2015-02-12 15:30:11,790 TabLink      INFO     VT_1889_12_H1:Found 1 sheets to process
+2015-02-12 15:30:21,493 TabLink      INFO     Saving 271042 data triples.
+2015-02-12 15:30:29,417 Main         INFO     Calling tablinker for VT_1899_03_H1
+2015-02-12 15:30:30,574 TabLink      INFO     VT_1899_01_H1:Found 1 sheets to process
+2015-02-12 15:30:31,000 TabLink      INFO     VT_1899_02_H1:Found 1 sheets to process
+2015-02-12 15:31:02,350 TabLink      INFO     Saving 188161 data triples.
+2015-02-12 15:31:02,578 TabLink      INFO     VT_1899_03_H1:Found 1 sheets to process
+2015-02-12 15:31:07,987 Main         INFO     Calling tablinker for VT_1899_04_H1
+2015-02-12 15:31:11,162 Main         INFO     Calling tablinker for VT_1899_05_H1
+2015-02-12 15:31:15,714 Main         INFO     Calling tablinker for VT_1899_06_H1
+2015-02-12 15:31:21,658 TabLink      INFO     Saving 126101 data triples.
+2015-02-12 15:31:22,181 TabLink      INFO     Saving 244137 data triples.
+2015-02-12 15:31:26,226 TabLink      INFO     VT_1899_06_H1:Found 1 sheets to process
+2015-02-12 15:31:27,447 TabLink      INFO     VT_1899_05_H1:Found 1 sheets to process
+2015-02-12 15:31:28,427 TabLink      INFO     Saving 607036 data triples.
+2015-02-12 15:31:34,853 Main         INFO     Calling tablinker for VT_1899_07_H1
+2015-02-12 15:31:35,483 TabLink      INFO     VT_1899_04_H1:Found 1 sheets to process
+2015-02-12 15:31:45,780 Main         INFO     Calling tablinker for VT_1899_08_H1
+2015-02-12 15:31:46,023 TabLink      INFO     Saving 185505 data triples.
+2015-02-12 15:31:48,063 TabLink      INFO     Saving 54489 data triples.
+2015-02-12 15:31:58,287 TabLink      INFO     VT_1899_07_H1:Found 1 sheets to process
+2015-02-12 15:31:58,327 TabLink      ERROR    Error processing sheet 0 of VT_1889_12_H1
+2015-02-12 15:31:59,940 TabLink      INFO     VT_1899_08_H1:Found 1 sheets to process
+2015-02-12 15:32:00,874 TabLink      INFO     Saving 83827 data triples.
+2015-02-12 15:32:01,471 TabLink      INFO     Saving 209651 data triples.
+2015-02-12 15:32:13,005 TabLink      INFO     Saving 174392 data triples.
+2015-02-12 15:32:16,830 Main         INFO     Calling tablinker for VT_1899_09_H1
+2015-02-12 15:32:28,714 Main         INFO     Calling tablinker for VT_1899_10_H1
+2015-02-12 15:32:29,288 TabLink      INFO     Saving 73083 data triples.
+2015-02-12 15:32:29,821 Main         INFO     Calling tablinker for VT_1899_11_H1
+2015-02-12 15:32:34,816 TabLink      INFO     Saving 145635 data triples.
+2015-02-12 15:32:35,983 TabLink      INFO     VT_1899_09_H1:Found 1 sheets to process
+2015-02-12 15:32:40,275 TabLink      INFO     VT_1899_10_H1:Found 1 sheets to process
+2015-02-12 15:32:47,322 TabLink      INFO     Saving 116690 data triples.
+2015-02-12 15:32:51,844 TabLink      INFO     VT_1899_11_H1:Found 1 sheets to process
+2015-02-12 15:33:00,447 Main         INFO     Calling tablinker for VT_1899_12_H1
+2015-02-12 15:33:02,850 TabLink      INFO     Saving 54449 data triples.
+2015-02-12 15:33:03,009 TabLink      INFO     VT_1899_12_H1:Found 1 sheets to process
+2015-02-12 15:33:05,298 Main         INFO     Calling tablinker for VT_1909_01_T
+2015-02-12 15:33:06,340 TabLink      INFO     Saving 9556 data triples.
+2015-02-12 15:33:13,535 Main         INFO     Calling tablinker for VT_1920_01_T
+2015-02-12 15:33:15,974 TabLink      INFO     Saving 98607 data triples.
+2015-02-12 15:33:37,094 TabLink      INFO     Saving 114979 data triples.
+2015-02-12 15:34:25,480 TabLink      INFO     Saving 1142078 data triples.
+2015-02-12 15:34:26,461 TabLink      INFO     VT_1909_01_T:Found 1 sheets to process
+2015-02-12 15:34:48,607 TabLink      INFO     VT_1920_01_T:Found 3 sheets to process
+2015-02-12 15:35:38,601 TabLink      INFO     Saving 639686 data triples.
+2015-02-12 15:36:30,100 TabLink      INFO     Saving 857313 data triples.
+2015-02-12 15:39:09,643 Main         INFO     Clean urn:graph:cedar-mini:raw-data
+2015-02-12 15:39:10,307 Main         INFO     Push the content of DataDump/raw-rdf//*
+2015-02-12 15:39:10,307 Main         INFO     Push DataDump/raw-rdf/VT_1859_01_H1.ttl.bz2
+2015-02-12 15:40:03,095 Main         INFO     Push DataDump/raw-rdf/VT_1869_01_H1.ttl.bz2
+2015-02-12 15:41:40,873 Main         INFO     Push DataDump/raw-rdf/VT_1879_01_H1.ttl.bz2
+2015-02-12 15:41:59,310 Main         INFO     Push DataDump/raw-rdf/VT_1879_02_H1.ttl.bz2
+2015-02-12 15:42:10,034 Main         INFO     Push DataDump/raw-rdf/VT_1879_03_H1.ttl.bz2
+2015-02-12 15:42:24,863 Main         INFO     Push DataDump/raw-rdf/VT_1879_04_H1.ttl.bz2
+2015-02-12 15:42:33,678 Main         INFO     Push DataDump/raw-rdf/VT_1879_05_H1.ttl.bz2
+2015-02-12 15:42:46,931 Main         INFO     Push DataDump/raw-rdf/VT_1879_06_H1.ttl.bz2
+2015-02-12 15:42:57,305 Main         INFO     Push DataDump/raw-rdf/VT_1879_07_H1.ttl.bz2
+2015-02-12 15:43:04,420 Main         INFO     Push DataDump/raw-rdf/VT_1879_08_H1.ttl.bz2
+2015-02-12 15:43:29,644 Main         INFO     Push DataDump/raw-rdf/VT_1879_09_H1.ttl.bz2
+2015-02-12 15:43:51,409 Main         INFO     Push DataDump/raw-rdf/VT_1879_10_H1.ttl.bz2
+2015-02-12 15:44:13,810 Main         INFO     Push DataDump/raw-rdf/VT_1879_11_H1.ttl.bz2
+2015-02-12 15:44:36,011 Main         INFO     Push DataDump/raw-rdf/VT_1889_03_H1.ttl.bz2
+2015-02-12 15:44:48,144 Main         INFO     Push DataDump/raw-rdf/VT_1889_04_H1.ttl.bz2
+2015-02-12 15:45:02,127 Main         INFO     Push DataDump/raw-rdf/VT_1889_05_H1.ttl.bz2
+2015-02-12 15:45:08,292 Main         INFO     Push DataDump/raw-rdf/VT_1889_06_H1.ttl.bz2
+2015-02-12 15:45:16,332 Main         INFO     Push DataDump/raw-rdf/VT_1889_07_H1.ttl.bz2
+2015-02-12 15:45:32,005 Main         INFO     Push DataDump/raw-rdf/VT_1889_08_H1.ttl.bz2
+2015-02-12 15:45:50,194 Main         INFO     Push DataDump/raw-rdf/VT_1889_09_H1.ttl.bz2
+2015-02-12 15:46:13,573 Main         INFO     Push DataDump/raw-rdf/VT_1889_10_H1.ttl.bz2
+2015-02-12 15:46:24,369 Main         INFO     Push DataDump/raw-rdf/VT_1889_11_H1.ttl.bz2
+2015-02-12 15:46:31,565 Main         INFO     Push DataDump/raw-rdf/VT_1889_12_H1.ttl.bz2
+2015-02-12 15:46:49,952 Main         INFO     Push DataDump/raw-rdf/VT_1889_13_H1.ttl.bz2
+2015-02-12 15:47:09,077 Main         INFO     Push DataDump/raw-rdf/VT_1899_01_H1.ttl.bz2
+2015-02-12 15:47:24,170 Main         INFO     Push DataDump/raw-rdf/VT_1899_02_H1.ttl.bz2
+2015-02-12 15:47:34,783 Main         INFO     Push DataDump/raw-rdf/VT_1899_03_H1.ttl.bz2
+2015-02-12 15:47:49,520 Main         INFO     Push DataDump/raw-rdf/VT_1899_04_H1.ttl.bz2
+2015-02-12 15:48:01,723 Main         INFO     Push DataDump/raw-rdf/VT_1899_05_H1.ttl.bz2
+2015-02-12 15:48:08,835 Main         INFO     Push DataDump/raw-rdf/VT_1899_06_H1.ttl.bz2
+2015-02-12 15:48:13,511 Main         INFO     Push DataDump/raw-rdf/VT_1899_07_H1.ttl.bz2
+2015-02-12 15:48:23,486 Main         INFO     Push DataDump/raw-rdf/VT_1899_08_H1.ttl.bz2
+2015-02-12 15:48:29,650 Main         INFO     Push DataDump/raw-rdf/VT_1899_09_H1.ttl.bz2
+2015-02-12 15:48:38,237 Main         INFO     Push DataDump/raw-rdf/VT_1899_10_H1.ttl.bz2
+2015-02-12 15:48:42,814 Main         INFO     Push DataDump/raw-rdf/VT_1899_11_H1.ttl.bz2
+2015-02-12 15:48:52,468 Main         INFO     Push DataDump/raw-rdf/VT_1899_12_H1.ttl.bz2
+2015-02-12 15:48:53,436 Main         INFO     Push DataDump/raw-rdf/VT_1909_01_T.ttl.bz2
+2015-02-12 15:49:48,348 Main         INFO     Push DataDump/raw-rdf/VT_1920_01_T.ttl.bz2
+2015-02-12 15:51:00,005 Main         INFO     Push DataDump/release//extra.ttl.bz2
