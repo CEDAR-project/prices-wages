@@ -6,21 +6,21 @@ prefix = http://www.gemeentegeschiedenis.nl/amco/
 mapping_type = uri
 
 [HousingTypeSituation]
-file = HousingTypeSituation.xlsx
+file = HousingTypeSituation.xls
 author = Ashkan
 predicate = http://bit.ly/cedar#houseType
 prefix = http://bit.ly/cedar#house-
 mapping_type = uri
 
 [ResidenceStatus]
-file = ResidenceStatus.xlsx
+file = ResidenceStatus.xls
 author = Ashkan
 predicate = http://bit.ly/cedar#residenceStatus
 prefix = http://bit.ly/cedar-residenceStatus#
 mapping_type = uri
 
 [Sex]
-file = Sex.xlsx
+file = Sex.xls
 author = Ashkan
 predicate = http://purl.org/linked-data/sdmx/2009/dimension#sex
 prefix = http://purl.org/linked-data/sdmx/2009/code#sex-
