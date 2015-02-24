@@ -26,3 +26,9 @@ predicate = http://purl.org/linked-data/sdmx/2009/dimension#sex
 prefix = http://purl.org/linked-data/sdmx/2009/code#sex-
 mapping_type = uri
 
+[Total]
+file = Total.xls
+author = Ashkan
+predicate = http://bit.ly/cedar#isTotal
+mapping_type = boolean
+
