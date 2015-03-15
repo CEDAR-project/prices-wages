@@ -6,8 +6,15 @@ prefix = http://www.gemeentegeschiedenis.nl/amco/
 mapping_type = uri
 
 [MissingCity]
-file = MissingCities.xls
+file = MissingCities_A.xls
 author = Albert
+predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
+prefix = http://www.gemeentegeschiedenis.nl/amco/
+mapping_type = uri
+
+[MissingCity]
+file = MissingCities_M.xls
+author = Ashkan
 predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
 prefix = http://www.gemeentegeschiedenis.nl/amco/
 mapping_type = uri
