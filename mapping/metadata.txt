@@ -5,6 +5,13 @@ predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
 prefix = http://www.gemeentegeschiedenis.nl/amco/
 mapping_type = uri
 
+[MissingCity]
+file = MissingCities.xls
+author = Albert
+predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
+prefix = http://www.gemeentegeschiedenis.nl/amco/
+mapping_type = uri
+
 [HousingTypeSituation]
 file = HousingTypeSituation.xls
 author = Ashkan
