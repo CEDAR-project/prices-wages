@@ -26,6 +26,13 @@ predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
 prefix = http://www.gemeentegeschiedenis.nl/amco/
 mapping_type = uri
 
+[HuizenExceptions]
+file = HuizenExceptions.xls
+author = Albert
+predicate = http://purl.org/linked-data/sdmx/2009/dimension#refArea
+prefix = http://www.gemeentegeschiedenis.nl/amco/
+mapping_type = uri
+
 [HousingTypeSituation]
 file = HousingTypeSituation.xls
 author = Ashkan
