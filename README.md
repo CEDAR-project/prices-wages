@@ -1,4 +1,4 @@
-# DataDump reduced for mini project
+# DataDump for dataset prices-wages
 
-Focuses on 7 years of VTs
+Focuses on http://www.iisg.nl/hpw/data.php
 
